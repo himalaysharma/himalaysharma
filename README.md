@@ -2,7 +2,7 @@
 - 👀 I’m interested in web software development
 - 🌱 I’m currently learning frontend dev
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me mail
+- 📫 How to reach me - mail 
 - 😄 Pronouns: he/him
 
 
